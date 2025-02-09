@@ -88,13 +88,14 @@ void PickupWeapon(Weapon weapon)
             rb.simulated = true;
         }
         // Restaura los valores originales del arma
-        currentWeapon.transform.localPosition = currentWeapon.DefaultLocalPosition;
+        
         currentWeapon.transform.localRotation = currentWeapon.DefaultLocalRotation;
         currentWeapon.transform.localScale = currentWeapon.DefaultLocalScale;
         currentWeapon.isEquipped = false;
         Debug.Log("Arma " + currentWeapon.name + " soltada y valores restaurados.");
         currentWeapon = null;
     }
+
 
     // Métodos públicos para que otros scripts (como PlayerAttack) consulten el arma equipada
     public bool IsWeaponEquipped() { return currentWeapon != null; }
