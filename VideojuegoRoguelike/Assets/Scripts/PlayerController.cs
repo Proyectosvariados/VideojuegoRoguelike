@@ -18,20 +18,20 @@ public class PlayerController : MonoBehaviour
         movimiento = Vector2.zero;
 
         // Comprueba las teclas de dirección para establecer la dirección del movimiento
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.D))
         {
             movimiento.x = 1;
         }
-        else if (Input.GetKey(KeyCode.LeftArrow))
+        else if (Input.GetKey(KeyCode.A))
         {
             movimiento.x = -1;
         }
 
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.W))
         {
             movimiento.y = 1;
         }
-        else if (Input.GetKey(KeyCode.DownArrow))
+        else if (Input.GetKey(KeyCode.S))
         {
             movimiento.y = -1;
         }
