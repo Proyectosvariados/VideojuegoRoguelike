@@ -5,60 +5,75 @@ public class Weapon : MonoBehaviour
 {
     [Header("Configuración del Arma")]
     public float damage = 10f;           // Daño que causa el arma
-    public float attackDuration = 0.2f;  // Tiempo que el colisionador está activo
-    public Collider2D attackCollider;    // Colisionador (por ejemplo, BoxCollider2D) asignado en el Inspector
+    public float attackDuration = 0.2f;  // Duración del swing de ataque
+    public float arcAngle = 45f;         // Ángulo total (en grados) del arco de ataque
 
-    // Flag para indicar si el arma está equipada
     [HideInInspector]
-    public bool isEquipped = false;
+    public bool isEquipped = false;      // Se marca como true cuando el arma está equipada
+
+    // Se guarda la posición local por defecto (por ejemplo, (0.5, 0, 0))
+    private Vector3 defaultLocalPosition;
 
     void Start()
     {
-        // Desactiva el colisionador al inicio para que no detecte colisiones constantemente
-        if (attackCollider != null)
-            attackCollider.enabled = false;
-        else
-            Debug.LogWarning("No se ha asignado el attackCollider en Weapon.");
+        // Se almacena la posición local inicial (definida al equiparse, p.ej. (0.5,0,0))
+        defaultLocalPosition = transform.localPosition;
+        Debug.Log("Weapon Start: defaultLocalPosition = " + defaultLocalPosition);
     }
 
-    // Este método es llamado por PlayerAttack cuando se presiona la tecla espacio
+    /// <summary>
+    /// Se llama para realizar el ataque.
+    /// </summary>
     public void PerformAttack()
     {
-        if (attackCollider != null)
+        if (!isEquipped)
         {
-            StartCoroutine(AttackCoroutine());
+            Debug.Log("PerformAttack aborted: Weapon is not equipped.");
+            return;
         }
-        else
-        {
-            Debug.LogWarning("attackCollider no asignado en Weapon.");
-        }
+        Debug.Log("PerformAttack initiated.");
+        StartCoroutine(SwingAttack());
     }
 
-    IEnumerator AttackCoroutine()
+    /// <summary>
+    /// Realiza el ataque mediante un movimiento en arco.
+    /// El arma se mueve de startAngle a endAngle en attackDuration segundos, siguiendo la dirección del mouse.
+    /// </summary>
+    IEnumerator SwingAttack()
     {
-        // Activa el colisionador para detectar colisiones (por ejemplo, con enemigos)
-        attackCollider.enabled = true;
+        float elapsed = 0f;
+        float radius = defaultLocalPosition.magnitude;
+        Vector3 pivot = transform.parent.position;
 
-        // Espera el tiempo definido para el ataque
-        yield return new WaitForSeconds(attackDuration);
+        // Se obtiene la posición del mouse en el mundo y se fija z = 0 (para 2D)
+        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mouseWorldPos.z = 0f;
+        Debug.Log("SwingAttack: mouseWorldPos = " + mouseWorldPos);
 
-        // Desactiva el colisionador
-        attackCollider.enabled = false;
-    }
+        // Dirección de ataque: desde el pivot (por ejemplo, la posición del WeaponHolder) hasta el mouse
+        Vector2 attackDir = (mouseWorldPos - pivot).normalized;
+        float targetAngle = Mathf.Atan2(attackDir.y, attackDir.x) * Mathf.Rad2Deg;
+        float startAngle = targetAngle - arcAngle / 2f;
+        float endAngle = targetAngle + arcAngle / 2f;
 
-    // Método que detecta colisiones y aplica daño solo si el arma está equipada
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        // Si el arma no está equipada, no se aplica daño
-        if (!isEquipped) return;
+        Debug.Log("SwingAttack: targetAngle = " + targetAngle + ", startAngle = " + startAngle + ", endAngle = " + endAngle);
 
-        // Se comprueba si el objeto colisionado tiene la etiqueta "Enemy"
-        if (collision.CompareTag("Enemy"))
+        // Durante el tiempo de ataque se interpola el ángulo y se actualiza la posición local y rotación del arma
+        while (elapsed < attackDuration)
         {
-            // Ejemplo: acceder al script del enemigo y aplicar daño
-            // Enemy enemy = collision.GetComponent<Enemy>();
-            // if (enemy != null) { enemy.TakeDamage(damage); }
-            Debug.Log("Enemigo golpeado. Daño: " + damage);
+            elapsed += Time.deltaTime;
+            float t = elapsed / attackDuration;
+            float currentAngle = Mathf.Lerp(startAngle, endAngle, t);
+            float rad = currentAngle * Mathf.Deg2Rad;
+            Vector3 newLocalPos = new Vector3(Mathf.Cos(rad), Mathf.Sin(rad), 0f) * radius;
+            transform.localPosition = newLocalPos;
+            transform.localRotation = Quaternion.Euler(0f, 0f, currentAngle);
+            Debug.Log("SwingAttack t: " + t + ", currentAngle: " + currentAngle + ", newLocalPos: " + newLocalPos);
+            yield return null;
         }
+        // Al finalizar, se restablece la posición y rotación originales
+        transform.localPosition = defaultLocalPosition;
+        transform.localRotation = Quaternion.identity;
+        Debug.Log("SwingAttack complete, reset position and rotation.");
     }
 }

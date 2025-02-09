@@ -2,33 +2,39 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    [Header("Configuración de Ataque")]
-    public float attackCooldown = 0.5f;  // Tiempo entre ataques
-    private float lastAttackTime = 0f;
+    private PlayerWeaponHandler weaponHandler;
 
-    [Header("Referencia al Arma")]
-    public Weapon weapon;  // Asigna en el Inspector el script del arma
-
-    void Update()
+    void Start()
     {
-        // Comprueba si se presiona la tecla espacio y si se cumple el cooldown
-        if (Input.GetKeyDown(KeyCode.Space) && Time.time >= lastAttackTime + attackCooldown)
+        weaponHandler = GetComponent<PlayerWeaponHandler>();
+        if (weaponHandler == null)
         {
-            Attack();
+            Debug.LogWarning("PlayerAttack: No PlayerWeaponHandler found on player.");
         }
     }
 
-    void Attack()
+    void Update()
     {
-        lastAttackTime = Time.time;
-
-        if (weapon != null)
+        if (Input.GetMouseButtonDown(0))
         {
-            weapon.PerformAttack();
-        }
-        else
-        {
-            Debug.LogWarning("No se ha asignado el arma en PlayerAttack.");
+            Debug.Log("Left click detected.");
+            if (weaponHandler != null && weaponHandler.IsWeaponEquipped())
+            {
+                Weapon currentWeapon = weaponHandler.GetCurrentWeapon();
+                if (currentWeapon != null)
+                {
+                    Debug.Log("PlayerAttack: Calling PerformAttack on weapon: " + currentWeapon.name);
+                    currentWeapon.PerformAttack();
+                }
+                else
+                {
+                    Debug.Log("PlayerAttack: Weapon is not assigned.");
+                }
+            }
+            else
+            {
+                Debug.Log("PlayerAttack: No weapon equipped.");
+            }
         }
     }
 }

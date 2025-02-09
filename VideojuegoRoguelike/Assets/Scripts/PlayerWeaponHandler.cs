@@ -66,38 +66,40 @@ public class PlayerWeaponHandler : MonoBehaviour
     /// Recoge el arma indicada y la acopla al weaponHolder.
     /// </summary>
     /// <param name="weapon">Arma a recoger</param>
-    void PickupWeapon(Weapon weapon)
+void PickupWeapon(Weapon weapon)
+{
+    currentWeapon = weapon;
+    weapon.transform.SetParent(weaponHolder);
+    // Posición local: 0.5 unidades a la derecha del weaponHolder
+    weapon.transform.localPosition = new Vector3(0.5f, 0f, 0f);
+    Rigidbody2D rb = weapon.GetComponent<Rigidbody2D>();
+    if (rb != null)
     {
-        currentWeapon = weapon;
-        // Se acopla el arma al objeto weaponHolder
-        weapon.transform.SetParent(weaponHolder);
-        // Posición local: 0.5 unidades a la derecha (puedes ajustar Y o Z si es necesario)
-        weapon.transform.localPosition = new Vector3(0.5f, 0f, 0f);
-        // Desactiva la física para que no interfiera mientras está equipada
-        Rigidbody2D rb = weapon.GetComponent<Rigidbody2D>();
-        if (rb != null)
-        {
-            rb.simulated = false;
-        }
-        Debug.Log("Arma recogida: " + weapon.name + " y posicionada a 0.5 a la derecha.");
+        rb.simulated = false;
     }
+    // Marca el arma como equipada
+    weapon.isEquipped = true;
+    Debug.Log("Arma recogida: " + weapon.name + " y posicionada a 0.5 a la derecha.");
+}
+
+
 
     /// <summary>
     /// Suelta el arma actualmente equipada.
     /// </summary>
-    void DropWeapon()
+void DropWeapon()
+{
+    currentWeapon.transform.SetParent(null);
+    Rigidbody2D rb = currentWeapon.GetComponent<Rigidbody2D>();
+    if (rb != null)
     {
-        // Desacopla el arma del jugador
-        currentWeapon.transform.SetParent(null);
-        // Reactiva la física para que interactúe con el entorno
-        Rigidbody2D rb = currentWeapon.GetComponent<Rigidbody2D>();
-        if (rb != null)
-        {
-            rb.simulated = true;
-        }
-        Debug.Log("Arma soltada: " + currentWeapon.name);
-        currentWeapon = null;
+        rb.simulated = true;
     }
+    currentWeapon.isEquipped = false;
+    Debug.Log("Arma soltada: " + currentWeapon.name);
+    currentWeapon = null;
+}
+
 
     // (Opcional) Visualización del radio de recogida en el editor
     private void OnDrawGizmosSelected()
@@ -105,4 +107,14 @@ public class PlayerWeaponHandler : MonoBehaviour
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position, pickupRadius);
     }
+    public bool IsWeaponEquipped()
+{
+    return currentWeapon != null;
 }
+
+public Weapon GetCurrentWeapon()
+{
+    return currentWeapon;
+}
+}
+
