@@ -3,14 +3,12 @@ using UnityEngine;
 public class PlayerWeaponHandler : MonoBehaviour
 {
     [Header("Configuración de recogida")]
-    public Transform weaponHolder;   // Objeto hijo del jugador donde se acoplará el arma
-    public LayerMask weaponLayer;    // Capa en la que se encuentran los objetos arma
-
-    // (Opcional) Radio para visualizar en el editor el área de pickup
-    public float pickupRadius = 2f;
+    public Transform weaponHolder;   // Objeto hijo del jugador que actuará como contenedor del arma
+    public LayerMask weaponLayer;    // Capa asignada a los objetos arma
+    public float pickupRadius = 2f;  // Radio para detectar armas (opcional)
 
     private Weapon currentWeapon;    // Arma actualmente equipada
-    private Weapon candidateWeapon;  // Arma candidata a recoger (detectada por trigger)
+    private Weapon candidateWeapon;  // Arma candidata (detectada por trigger)
 
     void Update()
     {
@@ -34,12 +32,9 @@ public class PlayerWeaponHandler : MonoBehaviour
         }
     }
 
-    // Se ejecuta cuando el jugador entra en contacto con un objeto (su collider debe ser trigger)
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("OnTriggerEnter2D detectado en: " + collision.gameObject.name);
-
-        // Comprueba si el objeto colisionado está en la capa definida en weaponLayer
         if (((1 << collision.gameObject.layer) & weaponLayer) != 0)
         {
             Weapon weapon = collision.GetComponent<Weapon>();
@@ -51,7 +46,6 @@ public class PlayerWeaponHandler : MonoBehaviour
         }
     }
 
-    // Se ejecuta cuando el jugador sale del área del objeto detectado
     private void OnTriggerExit2D(Collider2D collision)
     {
         Debug.Log("OnTriggerExit2D detectado en: " + collision.gameObject.name);
@@ -62,59 +56,53 @@ public class PlayerWeaponHandler : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Recoge el arma indicada y la acopla al weaponHolder.
-    /// </summary>
-    /// <param name="weapon">Arma a recoger</param>
 void PickupWeapon(Weapon weapon)
 {
     currentWeapon = weapon;
-    weapon.transform.SetParent(weaponHolder);
-    // Posición local: 0.5 unidades a la derecha del weaponHolder
-    weapon.transform.localPosition = new Vector3(0.5f, 0f, 0f);
+    // Asocia el arma al WeaponHolder sin conservar las transformaciones globales.
+    weapon.transform.SetParent(weaponHolder, false);
+    // Establece la rotación en -90 grados (sobre el eje Z)
+    weapon.transform.localRotation = Quaternion.Euler(0f, 0f, -90f);
+    // Posiciona el arma con un offset; en este caso se mantiene el valor actual (0.5,0,0)
+    weapon.transform.localPosition = new Vector3(0.5f, 0.0f, 0f);
+    // Restaura la escala original para evitar deformaciones
+    weapon.transform.localScale = weapon.DefaultLocalScale;
+    Debug.Log("Posición del arma establecida en (0.5,0,0) y rotada -90°, escala: " + weapon.DefaultLocalScale);
+
     Rigidbody2D rb = weapon.GetComponent<Rigidbody2D>();
     if (rb != null)
     {
         rb.simulated = false;
     }
-    // Marca el arma como equipada
     weapon.isEquipped = true;
-    Debug.Log("Arma recogida: " + weapon.name + " y posicionada a 0.5 a la derecha.");
+    Debug.Log("Arma " + weapon.name + " recogida y equipada.");
 }
 
 
-
-    /// <summary>
-    /// Suelta el arma actualmente equipada.
-    /// </summary>
-void DropWeapon()
-{
-    currentWeapon.transform.SetParent(null);
-    Rigidbody2D rb = currentWeapon.GetComponent<Rigidbody2D>();
-    if (rb != null)
+    void DropWeapon()
     {
-        rb.simulated = true;
+        currentWeapon.transform.SetParent(null);
+        Rigidbody2D rb = currentWeapon.GetComponent<Rigidbody2D>();
+        if (rb != null)
+        {
+            rb.simulated = true;
+        }
+        // Restaura los valores originales del arma
+        currentWeapon.transform.localPosition = currentWeapon.DefaultLocalPosition;
+        currentWeapon.transform.localRotation = currentWeapon.DefaultLocalRotation;
+        currentWeapon.transform.localScale = currentWeapon.DefaultLocalScale;
+        currentWeapon.isEquipped = false;
+        Debug.Log("Arma " + currentWeapon.name + " soltada y valores restaurados.");
+        currentWeapon = null;
     }
-    currentWeapon.isEquipped = false;
-    Debug.Log("Arma soltada: " + currentWeapon.name);
-    currentWeapon = null;
-}
 
+    // Métodos públicos para que otros scripts (como PlayerAttack) consulten el arma equipada
+    public bool IsWeaponEquipped() { return currentWeapon != null; }
+    public Weapon GetCurrentWeapon() { return currentWeapon; }
 
-    // (Opcional) Visualización del radio de recogida en el editor
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position, pickupRadius);
     }
-    public bool IsWeaponEquipped()
-{
-    return currentWeapon != null;
 }
-
-public Weapon GetCurrentWeapon()
-{
-    return currentWeapon;
-}
-}
-

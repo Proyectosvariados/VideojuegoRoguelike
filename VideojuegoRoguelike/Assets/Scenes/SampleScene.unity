@@ -295,8 +295,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 10
-  attackDuration: 0.2
-  arcAngle: 45
   isEquipped: 0
 --- !u!1 &519420028
 GameObject:
@@ -710,8 +708,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 10
-  attackDuration: 0.2
-  arcAngle: 45
   isEquipped: 0
 --- !u!1 &1067798376
 GameObject:
@@ -1078,6 +1074,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd9ba3dda54c5074394318e0161cc4f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  swingDuration: 0.2
+  swingAngle: 25
 --- !u!1 &1104162571
 GameObject:
   m_ObjectHideFlags: 0
@@ -1371,8 +1369,8 @@ Transform:
   m_GameObject: {fileID: 1336522241}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.232, y: 0.134, z: 0}
-  m_LocalScale: {x: 0.0944, y: 0.4086, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1093008853}
