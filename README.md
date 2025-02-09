@@ -1,10 +1,10 @@
 # Roguelike Medieval Fantasy
 
-**Co-created by [Adriano García-Giralda Milena](https://github.com/adrianoggm) and [Nicolás Hideo Vílchez Imanishi](https://github.com/your-link)**
+**Co-created by [Adriano García-Giralda Milena](https://github.com/adrianoggm) and [Nicolás Hideo Vílchez Imanishi](https://github.com/HeviKnight)**
 
 ## Overview
 
-This project is a video game developed in **C++** that combines classic roguelike elements with real-time gameplay and multiple players (1-4). The game is set in a medieval fantasy world where magic and melee coexist, and features procedural dungeon generation with a tileset similar to the style of *The Binding of Isaac* (4x4 cell layout).
+This project is a video game developed in **C#** with Unity that combines classic roguelike elements with real-time gameplay and multiple players (1-4). The game is set in a medieval fantasy world where magic and melee coexist, and features procedural dungeon generation with a tileset similar to the style of *The Binding of Isaac* (4x4 cell layout).
 
 ## Features
 
@@ -57,15 +57,8 @@ This project is a video game developed in **C++** that combines classic roguelik
 
 ### Prerequisites
 
-- A C++ compiler supporting C++11 (or higher).
-- [CMake](https://cmake.org/) (if you choose to use it for building the project) or a suitable Makefile.
-- SDL, SFML, or another graphics library (if you plan to implement a graphical interface).
-### Building the Project
+- A C++ compiler supporting C#.
+- Unity
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/roguelike-medieval-fantasy.git
-   cd roguelike-medieval-fantasy
 
  
