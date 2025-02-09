@@ -1,0 +1,6791 @@
+fileFormatVersion: 2
+guid: 1b991cd3794fa374ebece381ce44a8f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1757856481007350539
+    second: Dungeon_SinFondo_0
+  - first:
+      213: 6832394819451422576
+    second: Dungeon_SinFondo_1
+  - first:
+      213: -6525097442719063866
+    second: Dungeon_SinFondo_2
+  - first:
+      213: -2171330700924416305
+    second: Dungeon_SinFondo_3
+  - first:
+      213: 4015402798907958622
+    second: Dungeon_SinFondo_4
+  - first:
+      213: -7345402866176131739
+    second: Dungeon_SinFondo_5
+  - first:
+      213: -3083711521567524585
+    second: Dungeon_SinFondo_6
+  - first:
+      213: 1938363930210538128
+    second: Dungeon_SinFondo_7
+  - first:
+      213: 5034536355521613039
+    second: Dungeon_SinFondo_8
+  - first:
+      213: -8200251206344018209
+    second: Dungeon_SinFondo_9
+  - first:
+      213: -5232046688125036406
+    second: Dungeon_SinFondo_10
+  - first:
+      213: 8400094501356319507
+    second: Dungeon_SinFondo_11
+  - first:
+      213: 1654350912825010939
+    second: Dungeon_SinFondo_12
+  - first:
+      213: -7437012645556425278
+    second: Dungeon_SinFondo_13
+  - first:
+      213: -1564408084056429786
+    second: Dungeon_SinFondo_14
+  - first:
+      213: -7889647371256905007
+    second: Dungeon_SinFondo_15
+  - first:
+      213: 3545992694405381286
+    second: Dungeon_SinFondo_16
+  - first:
+      213: -2046329388701502335
+    second: Dungeon_SinFondo_17
+  - first:
+      213: -7694838383042361966
+    second: Dungeon_SinFondo_18
+  - first:
+      213: -6700335530852362801
+    second: Dungeon_SinFondo_19
+  - first:
+      213: -8718132778009663012
+    second: Dungeon_SinFondo_20
+  - first:
+      213: 6519528962557905015
+    second: Dungeon_SinFondo_21
+  - first:
+      213: -638809235514798529
+    second: Dungeon_SinFondo_22
+  - first:
+      213: -1025020414554099044
+    second: Dungeon_SinFondo_23
+  - first:
+      213: 5094860978151924243
+    second: Dungeon_SinFondo_24
+  - first:
+      213: -6110175934129983680
+    second: Dungeon_SinFondo_25
+  - first:
+      213: 1444277939178251891
+    second: Dungeon_SinFondo_26
+  - first:
+      213: 7178027449562459431
+    second: Dungeon_SinFondo_27
+  - first:
+      213: -2579727930577630153
+    second: Dungeon_SinFondo_28
+  - first:
+      213: 1639785286228108276
+    second: Dungeon_SinFondo_29
+  - first:
+      213: 948902692946201029
+    second: Dungeon_SinFondo_30
+  - first:
+      213: 6900911439833132930
+    second: Dungeon_SinFondo_31
+  - first:
+      213: -4664162967306877193
+    second: Dungeon_SinFondo_32
+  - first:
+      213: 5139226945248443587
+    second: Dungeon_SinFondo_33
+  - first:
+      213: -440461984403479877
+    second: Dungeon_SinFondo_34
+  - first:
+      213: -2132746486469822777
+    second: Dungeon_SinFondo_35
+  - first:
+      213: -5913656190044832690
+    second: Dungeon_SinFondo_36
+  - first:
+      213: 1545157918161477491
+    second: Dungeon_SinFondo_37
+  - first:
+      213: -3731154294636004319
+    second: Dungeon_SinFondo_38
+  - first:
+      213: -8000849920168993162
+    second: Dungeon_SinFondo_39
+  - first:
+      213: 191074116079235515
+    second: Dungeon_SinFondo_40
+  - first:
+      213: 8664333289992418516
+    second: Dungeon_SinFondo_41
+  - first:
+      213: -8467432150135232033
+    second: Dungeon_SinFondo_42
+  - first:
+      213: 5689705309179182792
+    second: Dungeon_SinFondo_43
+  - first:
+      213: -4843859563856776292
+    second: Dungeon_SinFondo_44
+  - first:
+      213: -1912448747205501010
+    second: Dungeon_SinFondo_45
+  - first:
+      213: 702009851532475494
+    second: Dungeon_SinFondo_46
+  - first:
+      213: -8187132927496860688
+    second: Dungeon_SinFondo_47
+  - first:
+      213: -3496094468291459647
+    second: Dungeon_SinFondo_48
+  - first:
+      213: -7811567122482089397
+    second: Dungeon_SinFondo_49
+  - first:
+      213: -5600604822921246013
+    second: Dungeon_SinFondo_50
+  - first:
+      213: -8754814887102513224
+    second: Dungeon_SinFondo_51
+  - first:
+      213: 859021284195501937
+    second: Dungeon_SinFondo_52
+  - first:
+      213: -2659341747322716244
+    second: Dungeon_SinFondo_53
+  - first:
+      213: -863569862346655845
+    second: Dungeon_SinFondo_54
+  - first:
+      213: 4414389149625579112
+    second: Dungeon_SinFondo_55
+  - first:
+      213: -5712603048015759519
+    second: Dungeon_SinFondo_56
+  - first:
+      213: -1028629868809467832
+    second: Dungeon_SinFondo_57
+  - first:
+      213: -5097925819689260920
+    second: Dungeon_SinFondo_58
+  - first:
+      213: -2245647276295986243
+    second: Dungeon_SinFondo_59
+  - first:
+      213: -8101961917166852150
+    second: Dungeon_SinFondo_60
+  - first:
+      213: -6083848908441993316
+    second: Dungeon_SinFondo_61
+  - first:
+      213: 2497792093247269567
+    second: Dungeon_SinFondo_62
+  - first:
+      213: 6915453430149328476
+    second: Dungeon_SinFondo_63
+  - first:
+      213: 1729417076557339194
+    second: Dungeon_SinFondo_64
+  - first:
+      213: 8005651753911022487
+    second: Dungeon_SinFondo_65
+  - first:
+      213: 4278832902806076869
+    second: Dungeon_SinFondo_66
+  - first:
+      213: 5267184354878517989
+    second: Dungeon_SinFondo_67
+  - first:
+      213: 3869330491019297409
+    second: Dungeon_SinFondo_68
+  - first:
+      213: 7814003085080437507
+    second: Dungeon_SinFondo_69
+  - first:
+      213: 4074886367274045684
+    second: Dungeon_SinFondo_70
+  - first:
+      213: -2522587568697372367
+    second: Dungeon_SinFondo_71
+  - first:
+      213: -1254672327870007151
+    second: Dungeon_SinFondo_72
+  - first:
+      213: 8139531398624382782
+    second: Dungeon_SinFondo_73
+  - first:
+      213: -8792737642642012063
+    second: Dungeon_SinFondo_74
+  - first:
+      213: -620862958287831392
+    second: Dungeon_SinFondo_75
+  - first:
+      213: -5571107861513967225
+    second: Dungeon_SinFondo_76
+  - first:
+      213: 4474154818179872227
+    second: Dungeon_SinFondo_77
+  - first:
+      213: -5657021254458859885
+    second: Dungeon_SinFondo_78
+  - first:
+      213: -2638139995309397815
+    second: Dungeon_SinFondo_79
+  - first:
+      213: 2879098934731984689
+    second: Dungeon_SinFondo_80
+  - first:
+      213: -3880395743592309731
+    second: Dungeon_SinFondo_81
+  - first:
+      213: -6452382020146611731
+    second: Dungeon_SinFondo_82
+  - first:
+      213: -3015390446462367911
+    second: Dungeon_SinFondo_83
+  - first:
+      213: -5168964287835488904
+    second: Dungeon_SinFondo_84
+  - first:
+      213: -2304957838967267464
+    second: Dungeon_SinFondo_85
+  - first:
+      213: 3812252619788480393
+    second: Dungeon_SinFondo_86
+  - first:
+      213: -1941824457286407259
+    second: Dungeon_SinFondo_87
+  - first:
+      213: -8813746948470590172
+    second: Dungeon_SinFondo_88
+  - first:
+      213: -7502561386634877740
+    second: Dungeon_SinFondo_89
+  - first:
+      213: 6046763623816661615
+    second: Dungeon_SinFondo_90
+  - first:
+      213: 4171382789307718684
+    second: Dungeon_SinFondo_91
+  - first:
+      213: 8648829692405935641
+    second: Dungeon_SinFondo_92
+  - first:
+      213: 4145960336131856272
+    second: Dungeon_SinFondo_93
+  - first:
+      213: -3860420353279223338
+    second: Dungeon_SinFondo_94
+  - first:
+      213: 3720401260404656313
+    second: Dungeon_SinFondo_95
+  - first:
+      213: -5928685129525847211
+    second: Dungeon_SinFondo_96
+  - first:
+      213: 8823105404638951154
+    second: Dungeon_SinFondo_97
+  - first:
+      213: -7469042124556007556
+    second: Dungeon_SinFondo_98
+  - first:
+      213: 1357239343586348381
+    second: Dungeon_SinFondo_99
+  - first:
+      213: -7349240765603947069
+    second: Dungeon_SinFondo_100
+  - first:
+      213: -7609225548931582443
+    second: Dungeon_SinFondo_101
+  - first:
+      213: -3710721868469285675
+    second: Dungeon_SinFondo_102
+  - first:
+      213: 6241121988680149270
+    second: Dungeon_SinFondo_103
+  - first:
+      213: -9220954174495076364
+    second: Dungeon_SinFondo_104
+  - first:
+      213: -577312704795669399
+    second: Dungeon_SinFondo_105
+  - first:
+      213: 7152544914097855343
+    second: Dungeon_SinFondo_106
+  - first:
+      213: -6190563352835503516
+    second: Dungeon_SinFondo_107
+  - first:
+      213: -2369430013786976910
+    second: Dungeon_SinFondo_108
+  - first:
+      213: -2087318754852108228
+    second: Dungeon_SinFondo_109
+  - first:
+      213: -427699886585275810
+    second: Dungeon_SinFondo_110
+  - first:
+      213: 8124730562232644510
+    second: Dungeon_SinFondo_111
+  - first:
+      213: -8704790387684709403
+    second: Dungeon_SinFondo_112
+  - first:
+      213: -4667561960152394638
+    second: Dungeon_SinFondo_113
+  - first:
+      213: -8258121283076871335
+    second: Dungeon_SinFondo_114
+  - first:
+      213: 938709452965078590
+    second: Dungeon_SinFondo_115
+  - first:
+      213: 732630652002013300
+    second: Dungeon_SinFondo_116
+  - first:
+      213: 5569658157350082183
+    second: Dungeon_SinFondo_117
+  - first:
+      213: -6545627228082766584
+    second: Dungeon_SinFondo_118
+  - first:
+      213: -5716460050254435823
+    second: Dungeon_SinFondo_119
+  - first:
+      213: -7676357181191806024
+    second: Dungeon_SinFondo_120
+  - first:
+      213: -1326188267309967648
+    second: Dungeon_SinFondo_121
+  - first:
+      213: 4382800150828537268
+    second: Dungeon_SinFondo_122
+  - first:
+      213: 1376087112128746148
+    second: Dungeon_SinFondo_123
+  - first:
+      213: 4302115541039016843
+    second: Dungeon_SinFondo_124
+  - first:
+      213: -8729919850391753342
+    second: Dungeon_SinFondo_125
+  - first:
+      213: 935710938748804397
+    second: Dungeon_SinFondo_126
+  - first:
+      213: 3882681684074300069
+    second: Dungeon_SinFondo_127
+  - first:
+      213: -1562028104428900042
+    second: Dungeon_SinFondo_128
+  - first:
+      213: 1344614872990262044
+    second: Dungeon_SinFondo_129
+  - first:
+      213: -4637784796050573007
+    second: Dungeon_SinFondo_130
+  - first:
+      213: 3891985534023148357
+    second: Dungeon_SinFondo_131
+  - first:
+      213: -7042265989309078251
+    second: Dungeon_SinFondo_132
+  - first:
+      213: -3259575712394574453
+    second: Dungeon_SinFondo_133
+  - first:
+      213: -1513696341962304270
+    second: Dungeon_SinFondo_134
+  - first:
+      213: 7764388958209816682
+    second: Dungeon_SinFondo_135
+  - first:
+      213: 4044719073375827882
+    second: Dungeon_SinFondo_136
+  - first:
+      213: -6816535593719692919
+    second: Dungeon_SinFondo_137
+  - first:
+      213: -1913440269530799777
+    second: Dungeon_SinFondo_138
+  - first:
+      213: 2587259146238825465
+    second: Dungeon_SinFondo_139
+  - first:
+      213: 7574510493436338725
+    second: Dungeon_SinFondo_140
+  - first:
+      213: -7927989700459341346
+    second: Dungeon_SinFondo_141
+  - first:
+      213: 7673849860157973381
+    second: Dungeon_SinFondo_142
+  - first:
+      213: -3599416540804678397
+    second: Dungeon_SinFondo_143
+  - first:
+      213: 501609971555531085
+    second: Dungeon_SinFondo_144
+  - first:
+      213: -2419515211958164996
+    second: Dungeon_SinFondo_145
+  - first:
+      213: -7105981938968302908
+    second: Dungeon_SinFondo_146
+  - first:
+      213: 9090527623822624296
+    second: Dungeon_SinFondo_147
+  - first:
+      213: -7399855967527455637
+    second: Dungeon_SinFondo_148
+  - first:
+      213: -8723317887246580130
+    second: Dungeon_SinFondo_149
+  - first:
+      213: -8963925450973748260
+    second: Dungeon_SinFondo_150
+  - first:
+      213: -8595970078997743789
+    second: Dungeon_SinFondo_151
+  - first:
+      213: -4723937735076760815
+    second: Dungeon_SinFondo_152
+  - first:
+      213: 7613116709344065535
+    second: Dungeon_SinFondo_153
+  - first:
+      213: 5483617096305491619
+    second: Dungeon_SinFondo_154
+  - first:
+      213: 8959322886895313042
+    second: Dungeon_SinFondo_155
+  - first:
+      213: 2930944595574477279
+    second: Dungeon_SinFondo_156
+  - first:
+      213: -5561220631298863043
+    second: Dungeon_SinFondo_157
+  - first:
+      213: -3798103388434358587
+    second: Dungeon_SinFondo_158
+  - first:
+      213: -4699659456144030943
+    second: Dungeon_SinFondo_159
+  - first:
+      213: -6142668600572107127
+    second: Dungeon_SinFondo_160
+  - first:
+      213: 6999520488311328993
+    second: Dungeon_SinFondo_161
+  - first:
+      213: -4581318789364476433
+    second: Dungeon_SinFondo_162
+  - first:
+      213: -9038553331920536980
+    second: Dungeon_SinFondo_163
+  - first:
+      213: -2448424642359189024
+    second: Dungeon_SinFondo_164
+  - first:
+      213: 2326137167085111214
+    second: Dungeon_SinFondo_165
+  - first:
+      213: -6313695326305562818
+    second: Dungeon_SinFondo_166
+  - first:
+      213: 3793699647429216998
+    second: Dungeon_SinFondo_167
+  - first:
+      213: 7613637813367493754
+    second: Dungeon_SinFondo_168
+  - first:
+      213: 5351141092294594340
+    second: Dungeon_SinFondo_169
+  - first:
+      213: -6941451693496255017
+    second: Dungeon_SinFondo_170
+  - first:
+      213: 6540066031109826822
+    second: Dungeon_SinFondo_171
+  - first:
+      213: -8492403240917002569
+    second: Dungeon_SinFondo_172
+  - first:
+      213: 4147488260110385292
+    second: Dungeon_SinFondo_173
+  - first:
+      213: 2287774820466818494
+    second: Dungeon_SinFondo_174
+  - first:
+      213: 2801624554126455223
+    second: Dungeon_SinFondo_175
+  - first:
+      213: 1995910800524255788
+    second: Dungeon_SinFondo_176
+  - first:
+      213: 2813289851542586154
+    second: Dungeon_SinFondo_177
+  - first:
+      213: -5651823930983791990
+    second: Dungeon_SinFondo_178
+  - first:
+      213: 7968580818251573600
+    second: Dungeon_SinFondo_179
+  - first:
+      213: -6260785699522894115
+    second: Dungeon_SinFondo_180
+  - first:
+      213: -9216086698822799484
+    second: Dungeon_SinFondo_181
+  - first:
+      213: -3454295628889589964
+    second: Dungeon_SinFondo_182
+  - first:
+      213: -102272189504837922
+    second: Dungeon_SinFondo_183
+  - first:
+      213: 4339825130297570162
+    second: Dungeon_SinFondo_184
+  - first:
+      213: -2292802913355004712
+    second: Dungeon_SinFondo_185
+  - first:
+      213: -6505201268614108236
+    second: Dungeon_SinFondo_186
+  - first:
+      213: -7486614480761771431
+    second: Dungeon_SinFondo_187
+  - first:
+      213: 1535956078394662984
+    second: Dungeon_SinFondo_188
+  - first:
+      213: -2139173056347498019
+    second: Dungeon_SinFondo_189
+  - first:
+      213: -8938420601307905705
+    second: Dungeon_SinFondo_190
+  - first:
+      213: -1600234432067015595
+    second: Dungeon_SinFondo_191
+  - first:
+      213: -6875012795161346109
+    second: Dungeon_SinFondo_192
+  - first:
+      213: -3731946072514894683
+    second: Dungeon_SinFondo_193
+  - first:
+      213: -6766255223565781641
+    second: Dungeon_SinFondo_194
+  - first:
+      213: -6602009310463064507
+    second: Dungeon_SinFondo_195
+  - first:
+      213: -3551638264534601476
+    second: Dungeon_SinFondo_196
+  - first:
+      213: -3336186176252984474
+    second: Dungeon_SinFondo_197
+  - first:
+      213: -2623518800790764069
+    second: Dungeon_SinFondo_198
+  - first:
+      213: -6107838910335681101
+    second: Dungeon_SinFondo_199
+  - first:
+      213: -4322465528411681569
+    second: Dungeon_SinFondo_200
+  - first:
+      213: 7172021573053216967
+    second: Dungeon_SinFondo_201
+  - first:
+      213: -4523260415438512851
+    second: Dungeon_SinFondo_202
+  - first:
+      213: 8457743712063398341
+    second: Dungeon_SinFondo_203
+  - first:
+      213: 5310832969145394304
+    second: Dungeon_SinFondo_204
+  - first:
+      213: 8086845709431982146
+    second: Dungeon_SinFondo_205
+  - first:
+      213: -2388515047043690135
+    second: Dungeon_SinFondo_206
+  - first:
+      213: 5700385306730591513
+    second: Dungeon_SinFondo_207
+  - first:
+      213: 506049886554981244
+    second: Dungeon_SinFondo_208
+  - first:
+      213: 5100273846749966094
+    second: Dungeon_SinFondo_209
+  - first:
+      213: -8401475803093525438
+    second: Dungeon_SinFondo_210
+  - first:
+      213: 6077255349969863727
+    second: Dungeon_SinFondo_211
+  - first:
+      213: -8319839596626840849
+    second: Dungeon_SinFondo_212
+  - first:
+      213: 8819726975696492539
+    second: Dungeon_SinFondo_213
+  - first:
+      213: -1956111066954243612
+    second: Dungeon_SinFondo_214
+  - first:
+      213: -4868338769585428066
+    second: Dungeon_SinFondo_215
+  - first:
+      213: -866379732043862801
+    second: Dungeon_SinFondo_216
+  - first:
+      213: -7668340863318497757
+    second: Dungeon_SinFondo_217
+  - first:
+      213: 1920615669713253850
+    second: Dungeon_SinFondo_218
+  - first:
+      213: -1324986480987050796
+    second: Dungeon_SinFondo_219
+  - first:
+      213: 7492615103865795865
+    second: Dungeon_SinFondo_220
+  - first:
+      213: -962222804080921077
+    second: Dungeon_SinFondo_221
+  - first:
+      213: 6541828965657277191
+    second: Dungeon_SinFondo_222
+  - first:
+      213: 6840887194775072175
+    second: Dungeon_SinFondo_223
+  - first:
+      213: -576974141007358078
+    second: Dungeon_SinFondo_224
+  - first:
+      213: -1375481871661591694
+    second: Dungeon_SinFondo_225
+  - first:
+      213: 7980544510702878567
+    second: Dungeon_SinFondo_226
+  - first:
+      213: 2924162960721861471
+    second: Dungeon_SinFondo_227
+  - first:
+      213: 6315701345090891773
+    second: Dungeon_SinFondo_228
+  - first:
+      213: 6146870806761879010
+    second: Dungeon_SinFondo_229
+  - first:
+      213: -2938679994910321811
+    second: Dungeon_SinFondo_230
+  - first:
+      213: 625088635831281329
+    second: Dungeon_SinFondo_231
+  - first:
+      213: 7728615460370293072
+    second: Dungeon_SinFondo_232
+  - first:
+      213: 6487191220651017285
+    second: Dungeon_SinFondo_233
+  - first:
+      213: 3536080953258798318
+    second: Dungeon_SinFondo_234
+  - first:
+      213: -86364574927234537
+    second: Dungeon_SinFondo_235
+  - first:
+      213: -9165377553143059145
+    second: Dungeon_SinFondo_236
+  - first:
+      213: -8258427233808888998
+    second: Dungeon_SinFondo_237
+  - first:
+      213: 2002480653848154849
+    second: Dungeon_SinFondo_238
+  - first:
+      213: -5564681676222764906
+    second: Dungeon_SinFondo_239
+  - first:
+      213: 8357804874707227377
+    second: Dungeon_SinFondo_240
+  - first:
+      213: 8974630351481331327
+    second: Dungeon_SinFondo_241
+  - first:
+      213: 2454615599710926686
+    second: Dungeon_SinFondo_242
+  - first:
+      213: -9027719203865610503
+    second: Dungeon_SinFondo_243
+  - first:
+      213: -75366327968161919
+    second: Dungeon_SinFondo_244
+  - first:
+      213: 3061784412621954808
+    second: Dungeon_SinFondo_245
+  - first:
+      213: 5087728653923988859
+    second: Dungeon_SinFondo_246
+  - first:
+      213: -2640782416307749328
+    second: Dungeon_SinFondo_247
+  - first:
+      213: -6616224321009435642
+    second: Dungeon_SinFondo_248
+  - first:
+      213: 3532605106837632792
+    second: Dungeon_SinFondo_249
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 382
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc407318d6da97e0800000000000000
+      internalID: -1757856481007350539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0770f9283ea81de50800000000000000
+      internalID: 6832394819451422576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 479
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0abe182723275a0800000000000000
+      internalID: -6525097442719063866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce00815b32edd1e0800000000000000
+      internalID: -2171330700924416305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 479
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55a403329399b730800000000000000
+      internalID: 4015402798907958622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 479
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d7f65c203ef0a90800000000000000
+      internalID: -7345402866176131739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719303795b47435d0800000000000000
+      internalID: -3083711521567524585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 479
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09211a189b376ea10800000000000000
+      internalID: 1938363930210538128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 482
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecc7a724244ed540800000000000000
+      internalID: 5034536355521613039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 480
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd675e089fad23e80800000000000000
+      internalID: -8200251206344018209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 464
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a885c0af1490467b0800000000000000
+      internalID: -5232046688125036406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 464
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3133e018171239470800000000000000
+      internalID: 8400094501356319507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 464
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa27ccd36f65f610800000000000000
+      internalID: 1654350912825010939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 479
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd658fd66c6ac890800000000000000
+      internalID: -7437012645556425278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 479
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b211ad22b1a4ae0800000000000000
+      internalID: -1564408084056429786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 479
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d243295487528290800000000000000
+      internalID: -7889647371256905007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 479
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acb92e6195e53130800000000000000
+      internalID: 3545992694405381286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 480
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184310d434af993e0800000000000000
+      internalID: -2046329388701502335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 481
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29508b67241763590800000000000000
+      internalID: -7694838383042361966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 479
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5dd97a550a303a0800000000000000
+      internalID: -6700335530852362801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 479
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96b06dd68f20780800000000000000
+      internalID: -8718132778009663012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 447
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778822cac050a7a50800000000000000
+      internalID: 6519528962557905015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 447
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ec6e5826e7227f0800000000000000
+      internalID: -638809235514798529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92bafe1d5566c1f0800000000000000
+      internalID: -1025020414554099044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 447
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312aebed01594b640800000000000000
+      internalID: 5094860978151924243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 447
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04faa0b6c5b443ba0800000000000000
+      internalID: -6110175934129983680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 449
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37627a1322b1b0410800000000000000
+      internalID: 1444277939178251891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d6c2f3fe97d9360800000000000000
+      internalID: 7178027449562459431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 447
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c44c87d17f23cd0800000000000000
+      internalID: -2579727930577630153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 451
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3e985a700b1c610800000000000000
+      internalID: 1639785286228108276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 432
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c94873c8fd2b2d00800000000000000
+      internalID: 948902692946201029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 463
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28feea55466f4cf50800000000000000
+      internalID: 6900911439833132930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 463
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f644273e70954fb0800000000000000
+      internalID: -4664162967306877193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_33
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 463
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc36ab8da3325740800000000000000
+      internalID: 5139226945248443587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 463
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2219aa82a23e9f0800000000000000
+      internalID: -440461984403479877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6f00ece56f662e0800000000000000
+      internalID: -2132746486469822777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_36
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 465
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c769ce6097eeda0800000000000000
+      internalID: -5913656190044832690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_37
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 463
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f95e1a0f0817510800000000000000
+      internalID: 1545157918161477491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_38
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 463
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c3c0200f6483cc0800000000000000
+      internalID: -3731154294636004319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 432
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e5d1f436547f090800000000000000
+      internalID: -8000849920168993162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 432
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1bcae65e4d6a200800000000000000
+      internalID: 191074116079235515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_41
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 432
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4f69db835ed3870800000000000000
+      internalID: 8664333289992418516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_42
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 447
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9a7736253ad7a80800000000000000
+      internalID: -8467432150135232033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_43
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 447
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce774655d4e5fe40800000000000000
+      internalID: 5689705309179182792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_44
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 447
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93307af36727ccb0800000000000000
+      internalID: -4843859563856776292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 447
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafdcab3ffd9575e0800000000000000
+      internalID: -1912448747205501010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_46
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 448
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cfa659d3a0eb900800000000000000
+      internalID: 702009851532475494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 449
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb45afcaf5716e80800000000000000
+      internalID: -8187132927496860688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 447
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5874caa906b7fc0800000000000000
+      internalID: -3496094468291459647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_49
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 447
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42b55de61db79390800000000000000
+      internalID: -7811567122482089397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 415
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca807a3697a642b0800000000000000
+      internalID: -5600604822921246013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 415
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bff3f3ce36a08680800000000000000
+      internalID: -8754814887102513224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 415
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17709f28e4bdbeb00800000000000000
+      internalID: 859021284195501937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 415
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf767645ce181bd0800000000000000
+      internalID: -2659341747322716244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_54
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 416
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97381c19cbf304f0800000000000000
+      internalID: -863569862346655845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 417
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86675cb0b8f034d30800000000000000
+      internalID: 4414389149625579112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 416
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167f4346bc1c8b0b0800000000000000
+      internalID: -5712603048015759519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_57
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 415
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8484140959299b1f0800000000000000
+      internalID: -1028629868809467832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 419
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888212a1a778049b0800000000000000
+      internalID: -5097925819689260920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3ed8d33bbd5d0e0800000000000000
+      internalID: -2245647276295986243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_60
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 400
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7e687ff8c009f80800000000000000
+      internalID: -8101961917166852150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 400
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fba21c6a3d19ba0800000000000000
+      internalID: -6083848908441993316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 400
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba68c8cca0f9a220800000000000000
+      internalID: 2497792093247269567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 415
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eaecc4140a8ff50800000000000000
+      internalID: 6915453430149328476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_64
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 415
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ad1b41baf100810800000000000000
+      internalID: 1729417076557339194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_65
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 415
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793795bbad9c91f60800000000000000
+      internalID: 8005651753911022487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_66
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 415
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd7209dad7716b30800000000000000
+      internalID: 4278832902806076869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 416
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e27707934cc81940800000000000000
+      internalID: 5267184354878517989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 418
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1820bcbb49f92b530800000000000000
+      internalID: 3869330491019297409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_69
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 416
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303a600d76ae07c60800000000000000
+      internalID: 7814003085080437507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_70
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 415
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f09375bf87ec8830800000000000000
+      internalID: 4074886367274045684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 351
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1311af4b8f7fdfcd0800000000000000
+      internalID: -2522587568697372367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_72
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 319
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198bbc35a22869ee0800000000000000
+      internalID: -1254672327870007151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f05259eac65f070800000000000000
+      internalID: 8139531398624382782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 383
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1680e1f23bbe9f580800000000000000
+      internalID: -8792737642642012063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 383
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae3e0dcd604267f0800000000000000
+      internalID: -620862958287831392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_76
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 383
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789e21dbae27fa2b0800000000000000
+      internalID: -5571107861513967225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_77
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 384
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5b6bf1a14671e30800000000000000
+      internalID: 4474154818179872227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_78
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 385
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e152924293e71b0800000000000000
+      internalID: -5657021254458859885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 384
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c825d7d6a1736bd0800000000000000
+      internalID: -2638139995309397815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_80
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 383
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fc7ed1a3d94f720800000000000000
+      internalID: 2879098934731984689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 387
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1e3361a0162ac0800000000000000
+      internalID: -3880395743592309731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 368
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de93b062db88476a0800000000000000
+      internalID: -6452382020146611731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 368
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957018b7d5e2726d0800000000000000
+      internalID: -3015390446462367911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_84
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 368
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87db2e6dd562448b0800000000000000
+      internalID: -5168964287835488904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_85
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f9a12ce052300e0800000000000000
+      internalID: -2304957838967267464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_86
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 383
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f6b8c3f87d7e430800000000000000
+      internalID: 3812252619788480393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 383
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab274fb1f04d05e0800000000000000
+      internalID: -1941824457286407259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4253a3cf8d74fa580800000000000000
+      internalID: -8813746948470590172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_89
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 383
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4e01c4b2c81e790800000000000000
+      internalID: -7502561386634877740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_90
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 383
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a885e8a7b6ae350800000000000000
+      internalID: 6046763623816661615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_91
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c5dd2cb8ab3e930800000000000000
+      internalID: 4171382789307718684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_92
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 351
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ee4b228c0d60870800000000000000
+      internalID: 8648829692405935641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 351
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0979fff95f8698930800000000000000
+      internalID: 4145960336131856272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d99a1f54280d6ac0800000000000000
+      internalID: -3860420353279223338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 351
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8c55c1c3581a330800000000000000
+      internalID: 3720401260404656313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_96
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 351
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b9875494419bda0800000000000000
+      internalID: -5928685129525847211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 351
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f675536e97f17a70800000000000000
+      internalID: 8823105404638951154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_98
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c770969a2c1a85890800000000000000
+      internalID: -7469042124556007556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_99
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 353
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d06a5fdf1e5d210800000000000000
+      internalID: 1357239343586348381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 336
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd5b5d2670420a90800000000000000
+      internalID: -7349240765603947069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_101
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 336
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5163b1cbda9966690800000000000000
+      internalID: -7609225548931582443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_102
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 336
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc4d91fe1ed08cc0800000000000000
+      internalID: -3710721868469285675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 336
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e82fb16bec9650800000000000000
+      internalID: 6241121988680149270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_104
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 351
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc0137807980080800000000000000
+      internalID: -9220954174495076364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_105
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 351
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c855a5729fcf7f0800000000000000
+      internalID: -577312704795669399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 351
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b54dc14b1f24360800000000000000
+      internalID: 7152544914097855343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_107
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 351
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a40bafd63b61aa0800000000000000
+      internalID: -6190563352835503516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_108
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 351
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d041cc4f71e1fd0800000000000000
+      internalID: -2369430013786976910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_109
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 351
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38870cc6aa5803e0800000000000000
+      internalID: -2087318754852108228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_110
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 351
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1c9d1831801af0800000000000000
+      internalID: -427699886585275810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_111
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 351
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93f2a15667d0c070800000000000000
+      internalID: 8124730562232644510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_112
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 319
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb61d9234f523780800000000000000
+      internalID: -8704790387684709403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_113
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 319
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2749df5802d793fb0800000000000000
+      internalID: -4667561960152394638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 319
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b2c1a4272456d80800000000000000
+      internalID: -8258121283076871335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_115
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 319
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e8432647f60d00800000000000000
+      internalID: 938709452965078590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470942442b3da2a00800000000000000
+      internalID: 732630652002013300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 319
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7865535b5966b4d40800000000000000
+      internalID: 5569658157350082183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 319
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d700e57b24925a0800000000000000
+      internalID: -6545627228082766584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_119
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 319
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a6fd31fdd0ba0b0800000000000000
+      internalID: -5716460050254435823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_120
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 322
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b32b0690d9187590800000000000000
+      internalID: -7676357181191806024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_121
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6d2bd1cce689de0800000000000000
+      internalID: -1326188267309967648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_122
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 319
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d9af1485d2dc30800000000000000
+      internalID: 4382800150828537268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_123
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 319
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a25d6a00f7d81310800000000000000
+      internalID: 1376087112128746148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_124
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 319
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b615e7a4f24bb30800000000000000
+      internalID: 4302115541039016843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_125
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 319
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da4cf262819d680800000000000000
+      internalID: -8729919850391753342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_126
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 320
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dd19424205cfc00800000000000000
+      internalID: 935710938748804397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_127
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a20a2b9b6e02e530800000000000000
+      internalID: 3882681684074300069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_128
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 319
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631b65a07bf825ae0800000000000000
+      internalID: -1562028104428900042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_129
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 319
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13aa485a1809a210800000000000000
+      internalID: 1344614872990262044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_130
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139b2becc4743afb0800000000000000
+      internalID: -4637784796050573007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_131
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 305
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543a86af83c130630800000000000000
+      internalID: 3891985534023148357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ea6de468d44e90800000000000000
+      internalID: -7042265989309078251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_133
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 305
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b850b38d829a3c2d0800000000000000
+      internalID: -3259575712394574453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 304
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4578762354efae0800000000000000
+      internalID: -1513696341962304270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_135
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 304
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68bf08be96a0cb60800000000000000
+      internalID: 7764388958209816682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 287
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa730d0419ab12830800000000000000
+      internalID: 4044719073375827882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98108893efcc661a0800000000000000
+      internalID: -6816535593719692919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5160b376381275e0800000000000000
+      internalID: -1913440269530799777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 287
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f312715c7ac7e320800000000000000
+      internalID: 2587259146238825465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522edbc89211e1960800000000000000
+      internalID: 7574510493436338725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 289
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95a292f5f1af190800000000000000
+      internalID: -7927989700459341346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583a56e3acdfe7a60800000000000000
+      internalID: 7673849860157973381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 287
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dfba60abd4c0ec0800000000000000
+      internalID: -3599416540804678397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 290
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d497c5a8c9316f600800000000000000
+      internalID: 501609971555531085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_145
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 287
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1649edbb72c6ed0800000000000000
+      internalID: -2419515211958164996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_146
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 288
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cae37b531b726d90800000000000000
+      internalID: -7105981938968302908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_147
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 289
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c2dec5ba082e70800000000000000
+      internalID: 9090527623822624296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_148
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 287
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64b872243e6e4990800000000000000
+      internalID: -7399855967527455637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_149
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 287
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e564bd3899c80f680800000000000000
+      internalID: -8723317887246580130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_150
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 255
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd360a59b4db99380800000000000000
+      internalID: -8963925450973748260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_151
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 287
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f37da1caf4b880800000000000000
+      internalID: -8595970078997743789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113bfaf88a3317eb0800000000000000
+      internalID: -4723937735076760815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_153
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 287
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff73b06af4937a960800000000000000
+      internalID: 7613116709344065535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae3c8512b8b91c40800000000000000
+      internalID: 5483617096305491619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_155
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2902c6572b8e55c70800000000000000
+      internalID: 8959322886895313042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_156
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd15193b49ecca820800000000000000
+      internalID: 2930944595574477279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_157
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 255
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d309bd9ec4392d2b0800000000000000
+      internalID: -5561220631298863043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce9928671d6a4bc0800000000000000
+      internalID: -3798103388434358587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_159
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123ca3fdf9477ceb0800000000000000
+      internalID: -4699659456144030943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98624f9f37bd0caa0800000000000000
+      internalID: -6142668600572107127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 255
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e09ddf8cca432160800000000000000
+      internalID: 6999520488311328993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe59b1d75d2eb60c0800000000000000
+      internalID: -4581318789364476433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_163
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6af37702ab909280800000000000000
+      internalID: -9038553331920536980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_164
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 272
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e12ed492c2750ed0800000000000000
+      internalID: -2448424642359189024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_165
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 272
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea701f6dd69184020800000000000000
+      internalID: 2326137167085111214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_166
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 272
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f43875d8f3168a0800000000000000
+      internalID: -6313695326305562818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_167
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 255
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea0b8dbabde5a430800000000000000
+      internalID: 3793699647429216998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_168
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 256
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a745042a04319a960800000000000000
+      internalID: 7613637813367493754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_169
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f073dc872134a40800000000000000
+      internalID: 5351141092294594340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_170
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd3f9f46720baf90800000000000000
+      internalID: -6941451693496255017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_171
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 255
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60966ef876bf2ca50800000000000000
+      internalID: 6540066031109826822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_172
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b614cf3f3ce42a80800000000000000
+      internalID: -8492403240917002569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_173
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 256
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c808bf52996de8930800000000000000
+      internalID: 4147488260110385292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_174
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 256
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdf10cf31fcfbf10800000000000000
+      internalID: 2287774820466818494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_175
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 256
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b138b630be51e620800000000000000
+      internalID: 2801624554126455223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_176
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c222d9c5c46e2bb10800000000000000
+      internalID: 1995910800524255788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_177
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 255
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23486be630da0720800000000000000
+      internalID: 2813289851542586154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_178
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82c8a45410b091b0800000000000000
+      internalID: -5651823930983791990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_179
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 211
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06960ebe806169e60800000000000000
+      internalID: 7968580818251573600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_180
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 233
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6a71dc3983d19a0800000000000000
+      internalID: -6260785699522894115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 241
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe671f9f1e91080800000000000000
+      internalID: -9216086698822799484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_182
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 231
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437f9da5d60ef00d0800000000000000
+      internalID: -3454295628889589964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_183
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 241
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6a92a4cf7a49ef0800000000000000
+      internalID: -102272189504837922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_184
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 223
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27333be66f72a3c30800000000000000
+      internalID: 4339825130297570162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_185
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 223
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d48e79e5e35e20e0800000000000000
+      internalID: -2292802913355004712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_186
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 207
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbe5d789e1e8b5a0800000000000000
+      internalID: -6505201268614108236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_187
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 228
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a26e7abc33a1890800000000000000
+      internalID: -7486614480761771431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_188
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 207
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e05b5aefc05510800000000000000
+      internalID: 1535956078394662984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_189
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 207
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9125760712052e0800000000000000
+      internalID: -2139173056347498019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_190
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751420622d954f380800000000000000
+      internalID: -8938420601307905705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_191
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 207
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ceb4f2343dac9e0800000000000000
+      internalID: -1600234432067015595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_192
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 207
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf7426c94c0790a0800000000000000
+      internalID: -6875012795161346109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_193
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4e5dad1d6753cc0800000000000000
+      internalID: -3731946072514894683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_194
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 231
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775fabb29be6912a0800000000000000
+      internalID: -6766255223565781641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_195
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 231
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5460706d283f064a0800000000000000
+      internalID: -6602009310463064507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_196
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 223
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0fab7d0db06bec0800000000000000
+      internalID: -3551638264534601476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_197
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6634fdb395c73b1d0800000000000000
+      internalID: -3336186176252984474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_198
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 207
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ce49fc83679bd0800000000000000
+      internalID: -2623518800790764069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_199
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf12c2fd89c3ba0800000000000000
+      internalID: -6107838910335681101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_200
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc8629d0848304c0800000000000000
+      internalID: -4322465528411681569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_201
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 191
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c876472f93288360800000000000000
+      internalID: 7172021573053216967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_202
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d933f0e962a31c0800000000000000
+      internalID: -4523260415438512851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_203
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c125d65811ff5570800000000000000
+      internalID: 8457743712063398341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_204
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 192
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084285b827ed3b940800000000000000
+      internalID: 5310832969145394304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_205
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248c518a35f3a3070800000000000000
+      internalID: 8086845709431982146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_206
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 191
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9611948383a4aded0800000000000000
+      internalID: -2388515047043690135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_207
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915788a0c36db1f40800000000000000
+      internalID: 5700385306730591513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_208
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 191
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738cbec0b9d50700800000000000000
+      internalID: 506049886554981244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_209
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 159
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f2fbc8a00d7c640800000000000000
+      internalID: 5100273846749966094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_210
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 159
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c129f1546f76b80800000000000000
+      internalID: -8401475803093525438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_211
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 159
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24cb48ca8fb65450800000000000000
+      internalID: 6077255349969863727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_212
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 159
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2f3de97fdf98c80800000000000000
+      internalID: -8319839596626840849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_213
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 159
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7d15a94f6f56a70800000000000000
+      internalID: 8819726975696492539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_214
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 159
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e16bf8395f7ad4e0800000000000000
+      internalID: -1956111066954243612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_215
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 159
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e992990ceaf207cb0800000000000000
+      internalID: -4868338769585428066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_216
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 159
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec6de659300af3f0800000000000000
+      internalID: -866379732043862801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_217
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 178
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e9490d94949590800000000000000
+      internalID: -7668340863318497757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_218
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 159
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5be4796c567aa10800000000000000
+      internalID: 1920615669713253850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_219
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 159
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc629cc0d3bc9de0800000000000000
+      internalID: -1324986480987050796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_220
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 160
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b5a84dbd1bf760800000000000000
+      internalID: 7492615103865795865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_221
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 161
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f9ff257f75a2f0800000000000000
+      internalID: -962222804080921077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_222
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 159
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703fc5fb8ce39ca50800000000000000
+      internalID: 6541828965657277191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_223
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad2619b8a6bfee50800000000000000
+      internalID: 6840887194775072175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_224
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 159
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2879ba0631d2ef7f0800000000000000
+      internalID: -576974141007358078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_225
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 159
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731f9c768e49ece0800000000000000
+      internalID: -1375481871661591694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_226
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 111
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f73a223f690ce60800000000000000
+      internalID: 7980544510702878567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_227
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 111
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b5e2b48b6b49820800000000000000
+      internalID: 2924162960721861471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_228
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 111
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff699d49e0e5a750800000000000000
+      internalID: 6315701345090891773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_229
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 111
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5b2456e621e4550800000000000000
+      internalID: 6146870806761879010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_230
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 113
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63d2da4d16b737d0800000000000000
+      internalID: -2938679994910321811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_231
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 115
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66bdb6dc2cca800800000000000000
+      internalID: 625088635831281329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_232
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 111
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a6f030de814b60800000000000000
+      internalID: 7728615460370293072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_233
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 111
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544cfe86b02270a50800000000000000
+      internalID: 6487191220651017285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_234
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eece30c54eea21130800000000000000
+      internalID: 3536080953258798318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_235
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad84e60eb2dcef0800000000000000
+      internalID: -86364574927234537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_236
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 127
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73da198fca90ec080800000000000000
+      internalID: -9165377553143059145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_237
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 127
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc8659f2c246d80800000000000000
+      internalID: -8258427233808888998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_238
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 128
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2163a8b8d3acb10800000000000000
+      internalID: 2002480653848154849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_239
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698ed989f7746c2b0800000000000000
+      internalID: -5564681676222764906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_240
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 127
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2d3f28043ecf370800000000000000
+      internalID: 8357804874707227377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_241
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7edb7a41ca4c8c70800000000000000
+      internalID: 8974630351481331327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_242
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57f6e002eb801220800000000000000
+      internalID: 2454615599710926686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_243
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f63e99073917b280800000000000000
+      internalID: -9027719203865610503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_244
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9e6959be34fef0800000000000000
+      internalID: -75366327968161919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_245
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed82583b4ad7a20800000000000000
+      internalID: 3061784412621954808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_246
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7537ba314e3b9640800000000000000
+      internalID: 5087728653923988859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_247
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ef0e2426e0a5bd0800000000000000
+      internalID: -2640782416307749328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_248
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cbee7c8037e24a0800000000000000
+      internalID: -6616224321009435642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_249
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 50
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b9ccc0a5560130800000000000000
+      internalID: 3532605106837632792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_250
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 337
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afac7cdec989d64aa194daba5edec43
+      internalID: 14097669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_251
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410c8f751ca79e43a21527ef12351b7
+      internalID: 966163413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dc704b104473244a0eb361faf40237
+      internalID: 456619333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_253
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af971cdd558c5084485bd848302b9a1c
+      internalID: -63648464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_254
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779ded53553e2b643ad86ac180195012
+      internalID: 210717481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_255
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 401
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe9a73d0d5c4a2429fe4440b947d00c
+      internalID: -1965929879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_SinFondo_256
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f041155b79dfe84e82472dbb6edc0ac
+      internalID: 694460904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6fd369e7fb153d44f937ba98789fe554
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dungeon_SinFondo_0: -1757856481007350539
+      Dungeon_SinFondo_1: 6832394819451422576
+      Dungeon_SinFondo_10: -5232046688125036406
+      Dungeon_SinFondo_100: -7349240765603947069
+      Dungeon_SinFondo_101: -7609225548931582443
+      Dungeon_SinFondo_102: -3710721868469285675
+      Dungeon_SinFondo_103: 6241121988680149270
+      Dungeon_SinFondo_104: -9220954174495076364
+      Dungeon_SinFondo_105: -577312704795669399
+      Dungeon_SinFondo_106: 7152544914097855343
+      Dungeon_SinFondo_107: -6190563352835503516
+      Dungeon_SinFondo_108: -2369430013786976910
+      Dungeon_SinFondo_109: -2087318754852108228
+      Dungeon_SinFondo_11: 8400094501356319507
+      Dungeon_SinFondo_110: -427699886585275810
+      Dungeon_SinFondo_111: 8124730562232644510
+      Dungeon_SinFondo_112: -8704790387684709403
+      Dungeon_SinFondo_113: -4667561960152394638
+      Dungeon_SinFondo_114: -8258121283076871335
+      Dungeon_SinFondo_115: 938709452965078590
+      Dungeon_SinFondo_116: 732630652002013300
+      Dungeon_SinFondo_117: 5569658157350082183
+      Dungeon_SinFondo_118: -6545627228082766584
+      Dungeon_SinFondo_119: -5716460050254435823
+      Dungeon_SinFondo_12: 1654350912825010939
+      Dungeon_SinFondo_120: -7676357181191806024
+      Dungeon_SinFondo_121: -1326188267309967648
+      Dungeon_SinFondo_122: 4382800150828537268
+      Dungeon_SinFondo_123: 1376087112128746148
+      Dungeon_SinFondo_124: 4302115541039016843
+      Dungeon_SinFondo_125: -8729919850391753342
+      Dungeon_SinFondo_126: 935710938748804397
+      Dungeon_SinFondo_127: 3882681684074300069
+      Dungeon_SinFondo_128: -1562028104428900042
+      Dungeon_SinFondo_129: 1344614872990262044
+      Dungeon_SinFondo_13: -7437012645556425278
+      Dungeon_SinFondo_130: -4637784796050573007
+      Dungeon_SinFondo_131: 3891985534023148357
+      Dungeon_SinFondo_132: -7042265989309078251
+      Dungeon_SinFondo_133: -3259575712394574453
+      Dungeon_SinFondo_134: -1513696341962304270
+      Dungeon_SinFondo_135: 7764388958209816682
+      Dungeon_SinFondo_136: 4044719073375827882
+      Dungeon_SinFondo_137: -6816535593719692919
+      Dungeon_SinFondo_138: -1913440269530799777
+      Dungeon_SinFondo_139: 2587259146238825465
+      Dungeon_SinFondo_14: -1564408084056429786
+      Dungeon_SinFondo_140: 7574510493436338725
+      Dungeon_SinFondo_141: -7927989700459341346
+      Dungeon_SinFondo_142: 7673849860157973381
+      Dungeon_SinFondo_143: -3599416540804678397
+      Dungeon_SinFondo_144: 501609971555531085
+      Dungeon_SinFondo_145: -2419515211958164996
+      Dungeon_SinFondo_146: -7105981938968302908
+      Dungeon_SinFondo_147: 9090527623822624296
+      Dungeon_SinFondo_148: -7399855967527455637
+      Dungeon_SinFondo_149: -8723317887246580130
+      Dungeon_SinFondo_15: -7889647371256905007
+      Dungeon_SinFondo_150: -8963925450973748260
+      Dungeon_SinFondo_151: -8595970078997743789
+      Dungeon_SinFondo_152: -4723937735076760815
+      Dungeon_SinFondo_153: 7613116709344065535
+      Dungeon_SinFondo_154: 5483617096305491619
+      Dungeon_SinFondo_155: 8959322886895313042
+      Dungeon_SinFondo_156: 2930944595574477279
+      Dungeon_SinFondo_157: -5561220631298863043
+      Dungeon_SinFondo_158: -3798103388434358587
+      Dungeon_SinFondo_159: -4699659456144030943
+      Dungeon_SinFondo_16: 3545992694405381286
+      Dungeon_SinFondo_160: -6142668600572107127
+      Dungeon_SinFondo_161: 6999520488311328993
+      Dungeon_SinFondo_162: -4581318789364476433
+      Dungeon_SinFondo_163: -9038553331920536980
+      Dungeon_SinFondo_164: -2448424642359189024
+      Dungeon_SinFondo_165: 2326137167085111214
+      Dungeon_SinFondo_166: -6313695326305562818
+      Dungeon_SinFondo_167: 3793699647429216998
+      Dungeon_SinFondo_168: 7613637813367493754
+      Dungeon_SinFondo_169: 5351141092294594340
+      Dungeon_SinFondo_17: -2046329388701502335
+      Dungeon_SinFondo_170: -6941451693496255017
+      Dungeon_SinFondo_171: 6540066031109826822
+      Dungeon_SinFondo_172: -8492403240917002569
+      Dungeon_SinFondo_173: 4147488260110385292
+      Dungeon_SinFondo_174: 2287774820466818494
+      Dungeon_SinFondo_175: 2801624554126455223
+      Dungeon_SinFondo_176: 1995910800524255788
+      Dungeon_SinFondo_177: 2813289851542586154
+      Dungeon_SinFondo_178: -5651823930983791990
+      Dungeon_SinFondo_179: 7968580818251573600
+      Dungeon_SinFondo_18: -7694838383042361966
+      Dungeon_SinFondo_180: -6260785699522894115
+      Dungeon_SinFondo_181: -9216086698822799484
+      Dungeon_SinFondo_182: -3454295628889589964
+      Dungeon_SinFondo_183: -102272189504837922
+      Dungeon_SinFondo_184: 4339825130297570162
+      Dungeon_SinFondo_185: -2292802913355004712
+      Dungeon_SinFondo_186: -6505201268614108236
+      Dungeon_SinFondo_187: -7486614480761771431
+      Dungeon_SinFondo_188: 1535956078394662984
+      Dungeon_SinFondo_189: -2139173056347498019
+      Dungeon_SinFondo_19: -6700335530852362801
+      Dungeon_SinFondo_190: -8938420601307905705
+      Dungeon_SinFondo_191: -1600234432067015595
+      Dungeon_SinFondo_192: -6875012795161346109
+      Dungeon_SinFondo_193: -3731946072514894683
+      Dungeon_SinFondo_194: -6766255223565781641
+      Dungeon_SinFondo_195: -6602009310463064507
+      Dungeon_SinFondo_196: -3551638264534601476
+      Dungeon_SinFondo_197: -3336186176252984474
+      Dungeon_SinFondo_198: -2623518800790764069
+      Dungeon_SinFondo_199: -6107838910335681101
+      Dungeon_SinFondo_2: -6525097442719063866
+      Dungeon_SinFondo_20: -8718132778009663012
+      Dungeon_SinFondo_200: -4322465528411681569
+      Dungeon_SinFondo_201: 7172021573053216967
+      Dungeon_SinFondo_202: -4523260415438512851
+      Dungeon_SinFondo_203: 8457743712063398341
+      Dungeon_SinFondo_204: 5310832969145394304
+      Dungeon_SinFondo_205: 8086845709431982146
+      Dungeon_SinFondo_206: -2388515047043690135
+      Dungeon_SinFondo_207: 5700385306730591513
+      Dungeon_SinFondo_208: 506049886554981244
+      Dungeon_SinFondo_209: 5100273846749966094
+      Dungeon_SinFondo_21: 6519528962557905015
+      Dungeon_SinFondo_210: -8401475803093525438
+      Dungeon_SinFondo_211: 6077255349969863727
+      Dungeon_SinFondo_212: -8319839596626840849
+      Dungeon_SinFondo_213: 8819726975696492539
+      Dungeon_SinFondo_214: -1956111066954243612
+      Dungeon_SinFondo_215: -4868338769585428066
+      Dungeon_SinFondo_216: -866379732043862801
+      Dungeon_SinFondo_217: -7668340863318497757
+      Dungeon_SinFondo_218: 1920615669713253850
+      Dungeon_SinFondo_219: -1324986480987050796
+      Dungeon_SinFondo_22: -638809235514798529
+      Dungeon_SinFondo_220: 7492615103865795865
+      Dungeon_SinFondo_221: -962222804080921077
+      Dungeon_SinFondo_222: 6541828965657277191
+      Dungeon_SinFondo_223: 6840887194775072175
+      Dungeon_SinFondo_224: -576974141007358078
+      Dungeon_SinFondo_225: -1375481871661591694
+      Dungeon_SinFondo_226: 7980544510702878567
+      Dungeon_SinFondo_227: 2924162960721861471
+      Dungeon_SinFondo_228: 6315701345090891773
+      Dungeon_SinFondo_229: 6146870806761879010
+      Dungeon_SinFondo_23: -1025020414554099044
+      Dungeon_SinFondo_230: -2938679994910321811
+      Dungeon_SinFondo_231: 625088635831281329
+      Dungeon_SinFondo_232: 7728615460370293072
+      Dungeon_SinFondo_233: 6487191220651017285
+      Dungeon_SinFondo_234: 3536080953258798318
+      Dungeon_SinFondo_235: -86364574927234537
+      Dungeon_SinFondo_236: -9165377553143059145
+      Dungeon_SinFondo_237: -8258427233808888998
+      Dungeon_SinFondo_238: 2002480653848154849
+      Dungeon_SinFondo_239: -5564681676222764906
+      Dungeon_SinFondo_24: 5094860978151924243
+      Dungeon_SinFondo_240: 8357804874707227377
+      Dungeon_SinFondo_241: 8974630351481331327
+      Dungeon_SinFondo_242: 2454615599710926686
+      Dungeon_SinFondo_243: -9027719203865610503
+      Dungeon_SinFondo_244: -75366327968161919
+      Dungeon_SinFondo_245: 3061784412621954808
+      Dungeon_SinFondo_246: 5087728653923988859
+      Dungeon_SinFondo_247: -2640782416307749328
+      Dungeon_SinFondo_248: -6616224321009435642
+      Dungeon_SinFondo_249: 3532605106837632792
+      Dungeon_SinFondo_25: -6110175934129983680
+      Dungeon_SinFondo_250: 14097669
+      Dungeon_SinFondo_251: 966163413
+      Dungeon_SinFondo_252: 456619333
+      Dungeon_SinFondo_253: -63648464
+      Dungeon_SinFondo_254: 210717481
+      Dungeon_SinFondo_255: -1965929879
+      Dungeon_SinFondo_256: 694460904
+      Dungeon_SinFondo_26: 1444277939178251891
+      Dungeon_SinFondo_27: 7178027449562459431
+      Dungeon_SinFondo_28: -2579727930577630153
+      Dungeon_SinFondo_29: 1639785286228108276
+      Dungeon_SinFondo_3: -2171330700924416305
+      Dungeon_SinFondo_30: 948902692946201029
+      Dungeon_SinFondo_31: 6900911439833132930
+      Dungeon_SinFondo_32: -4664162967306877193
+      Dungeon_SinFondo_33: 5139226945248443587
+      Dungeon_SinFondo_34: -440461984403479877
+      Dungeon_SinFondo_35: -2132746486469822777
+      Dungeon_SinFondo_36: -5913656190044832690
+      Dungeon_SinFondo_37: 1545157918161477491
+      Dungeon_SinFondo_38: -3731154294636004319
+      Dungeon_SinFondo_39: -8000849920168993162
+      Dungeon_SinFondo_4: 4015402798907958622
+      Dungeon_SinFondo_40: 191074116079235515
+      Dungeon_SinFondo_41: 8664333289992418516
+      Dungeon_SinFondo_42: -8467432150135232033
+      Dungeon_SinFondo_43: 5689705309179182792
+      Dungeon_SinFondo_44: -4843859563856776292
+      Dungeon_SinFondo_45: -1912448747205501010
+      Dungeon_SinFondo_46: 702009851532475494
+      Dungeon_SinFondo_47: -8187132927496860688
+      Dungeon_SinFondo_48: -3496094468291459647
+      Dungeon_SinFondo_49: -7811567122482089397
+      Dungeon_SinFondo_5: -7345402866176131739
+      Dungeon_SinFondo_50: -5600604822921246013
+      Dungeon_SinFondo_51: -8754814887102513224
+      Dungeon_SinFondo_52: 859021284195501937
+      Dungeon_SinFondo_53: -2659341747322716244
+      Dungeon_SinFondo_54: -863569862346655845
+      Dungeon_SinFondo_55: 4414389149625579112
+      Dungeon_SinFondo_56: -5712603048015759519
+      Dungeon_SinFondo_57: -1028629868809467832
+      Dungeon_SinFondo_58: -5097925819689260920
+      Dungeon_SinFondo_59: -2245647276295986243
+      Dungeon_SinFondo_6: -3083711521567524585
+      Dungeon_SinFondo_60: -8101961917166852150
+      Dungeon_SinFondo_61: -6083848908441993316
+      Dungeon_SinFondo_62: 2497792093247269567
+      Dungeon_SinFondo_63: 6915453430149328476
+      Dungeon_SinFondo_64: 1729417076557339194
+      Dungeon_SinFondo_65: 8005651753911022487
+      Dungeon_SinFondo_66: 4278832902806076869
+      Dungeon_SinFondo_67: 5267184354878517989
+      Dungeon_SinFondo_68: 3869330491019297409
+      Dungeon_SinFondo_69: 7814003085080437507
+      Dungeon_SinFondo_7: 1938363930210538128
+      Dungeon_SinFondo_70: 4074886367274045684
+      Dungeon_SinFondo_71: -2522587568697372367
+      Dungeon_SinFondo_72: -1254672327870007151
+      Dungeon_SinFondo_73: 8139531398624382782
+      Dungeon_SinFondo_74: -8792737642642012063
+      Dungeon_SinFondo_75: -620862958287831392
+      Dungeon_SinFondo_76: -5571107861513967225
+      Dungeon_SinFondo_77: 4474154818179872227
+      Dungeon_SinFondo_78: -5657021254458859885
+      Dungeon_SinFondo_79: -2638139995309397815
+      Dungeon_SinFondo_8: 5034536355521613039
+      Dungeon_SinFondo_80: 2879098934731984689
+      Dungeon_SinFondo_81: -3880395743592309731
+      Dungeon_SinFondo_82: -6452382020146611731
+      Dungeon_SinFondo_83: -3015390446462367911
+      Dungeon_SinFondo_84: -5168964287835488904
+      Dungeon_SinFondo_85: -2304957838967267464
+      Dungeon_SinFondo_86: 3812252619788480393
+      Dungeon_SinFondo_87: -1941824457286407259
+      Dungeon_SinFondo_88: -8813746948470590172
+      Dungeon_SinFondo_89: -7502561386634877740
+      Dungeon_SinFondo_9: -8200251206344018209
+      Dungeon_SinFondo_90: 6046763623816661615
+      Dungeon_SinFondo_91: 4171382789307718684
+      Dungeon_SinFondo_92: 8648829692405935641
+      Dungeon_SinFondo_93: 4145960336131856272
+      Dungeon_SinFondo_94: -3860420353279223338
+      Dungeon_SinFondo_95: 3720401260404656313
+      Dungeon_SinFondo_96: -5928685129525847211
+      Dungeon_SinFondo_97: 8823105404638951154
+      Dungeon_SinFondo_98: -7469042124556007556
+      Dungeon_SinFondo_99: 1357239343586348381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
