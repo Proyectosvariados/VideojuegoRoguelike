@@ -1,0 +1,28 @@
+# Carpetas generadas por Unity (no deben versionarse)
+VideojuegoRoguelike/Library/
+VideojuegoRoguelike/Temp/
+VideojuegoRoguelike/Obj/
+VideojuegoRoguelike/Build/
+VideojuegoRoguelike/Builds/
+VideojuegoRoguelike/Logs/
+
+# Configuraciones de usuario
+VideojuegoRoguelike/UserSettings/
+
+# Archivos y carpetas de paquetes que se regeneran
+Packages/PackageCache/
+
+# Archivos generados por IDEs (Visual Studio, Rider, etc.)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Otros archivos autogenerados
+sysinfo.txt
